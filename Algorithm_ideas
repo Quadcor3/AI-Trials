@@ -1,0 +1,6 @@
+#choose_calc: (card_milestones, pull(estimated remaining round)*benefit(income, endpoints, milestone)) - cost, global_mod_learn, standard_projects, Global_benefits, tile_benefits, 
+
+#est_round:
+
+#benefit
+def brint:
