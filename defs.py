@@ -4,7 +4,7 @@
 
 #defins:
 benefit_mod=0
-
+cost=0
 #utils
 def benefit_if():
     if benefit_mod == 1:
